@@ -1,0 +1,14 @@
+/* BASIC STYLES HERE */
+
+.car{
+  position: relative;
+}
+
+.car p{
+  position: absolute;
+  bottom: 5%;
+  font-size: x-large;
+  color:black;
+  left: 1rem;
+  user-select: none;
+}
